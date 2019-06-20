@@ -42,7 +42,7 @@ for (int i=0; i<1000; i++)
 	my_numbers.push_back(510);
 	my_numbers.push_back(275);
 	my_numbers.push_back(19);
-	my_numbers.push_back(67);
+	my_numbers.push_back(68);
 	my_numbers.push_back(129);
 	my_numbers.push_back(55);
 	my_numbers.push_back(489);
