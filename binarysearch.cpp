@@ -7,7 +7,7 @@ using namespace std;
 void Binary_Search(const vector<int> &numbers, int value);
 void mergeSort(int arr[], int l, int r) ;
 void merge(int arr[], int l, int m, int r) ;
-void BiTree_Search(int arr[], int siz, int Key);
+void BiTree_Search(int arr[], int sizo, int Key);
 void DoSort(int arr[], int nsize);
 void QuickSort(int arr[], int start, int end);
 int Partition(int arr[], int start, int end);
