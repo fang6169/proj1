@@ -22,7 +22,7 @@ my_char.push_back("3rd");
    
 vector <int>my_numbers;
   
-for (int i=0; i<1000; i++) 
+for (int i=0; i<=999; i++) 
 {
 	if(i <= 100)
 		my_numbers.push_back(i);
