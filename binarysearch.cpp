@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <math.h>
+#include <Windows.h>
 
 using namespace std;
 
@@ -57,7 +58,7 @@ for (int i=0; i<=999; i++)
 
 cout << "Size of vector my_nymbers :" << my_numbers.size() << endl; 
 //	Binary_Search(my_numbers, 2);
-//	Binary_Search(my_numbers, 23);
+//	Binary_Search(my_numbers, 25);
 //	Binary_Search(my_numbers, 234);
 //	Binary_Search(my_numbers, 333);
 //	Binary_Search(my_numbers, 561);
@@ -86,7 +87,7 @@ cout << "Size of vector my_nymbers :" << my_numbers.size() << endl;
 	*/
 
 
-	int arr[] = {6, 11, 13, 5, 6, 7, 19, 32, 2, 43, 10, 22, 7}; 
+	int arr[] = {6, 12, 13, 5, 6, 7, 19, 32, 2, 43, 10, 22, 7}; 
     int arr_size = sizeof(arr)/sizeof(arr[0]); 
 
 	//mergeSort(arr, 0, arr_size - 1);
