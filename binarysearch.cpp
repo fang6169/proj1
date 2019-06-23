@@ -1,8 +1,8 @@
 ﻿#include <iostream>
 #include <vector>
 #include <algorithm>
-#include <math.h>
-
+#in
+#include <Windows.h>
 
 using namespace std;
 
