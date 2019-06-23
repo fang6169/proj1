@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <math.h>
-#include <Windows.h>
+
 
 using namespace std;
 
