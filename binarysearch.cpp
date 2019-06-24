@@ -1,12 +1,12 @@
 ﻿#include <iostream>
-#include <vector12>
+
 #include <algorithm>
 
 using namespace std;
 
 void Binary_Search(const vector<int> &numbers, int value);
 
-void merge(int arr[], int l, int m, int r) ;
+void merge(int arr[], int l, int m, int r0) ;
 void BiTree_Search(int arr[], int siz, int Key);
 void DoSort(int arr[], int nsize);
 void QuickSort(int arr[], int start, int end);
