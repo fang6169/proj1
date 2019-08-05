@@ -1,9 +1,11 @@
 this one for august 1 atest at
 add something 0801
-what is line3
 <<<<<<< HEAD
-add 3rd 3.14
-3-44 proj1
+what is line3
+add 3rd 3.14  339  352-proj0
+3-44 proj1  449proj0  502proj0
 =======
-add 3rd 3.14  339-prj0
->>>>>>> 2e22ce5e0935808155a1294ea1cb8b165631a240
+what is line3  longtime proj2
+add 3rd 3.14  proj2 339  352-proj0
+3-44 proj1  449proj0 453 prj1
+>>>>>>> 2edfafa4bf7b54689237038a1d697103da07861e
